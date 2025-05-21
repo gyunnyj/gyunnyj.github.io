@@ -1,5 +1,6 @@
 ---
 title: "스프링부트(Spring Boot)를 배우며 느낀 점(ing)"
+date: 2025-05-21
 categories:
 - spring
 tags:
