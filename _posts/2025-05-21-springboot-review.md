@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "스프링부트(Spring Boot)를 배우며 느낀 점(ing)"
 catagories:
 - spring
